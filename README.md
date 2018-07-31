@@ -11,7 +11,11 @@ Heres a video showing it:
 https://youtu.be/9AKdxXfphY4
 
 Install:
+
 -Extract files to a folder. Name it whatever you want.
+
 -Drag and drop folder into server resources.
+
 -add "start yourfoldername" into server.cfg
+
 -done
